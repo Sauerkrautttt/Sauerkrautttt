@@ -1,8 +1,15 @@
 <!-- Layout adapted from https://github.com/innng/innng -->
 <div align="center">
   <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" alt="Klee walking through a forest" />
-  <h1>Hello，我是酸菜超酸</h1>
+  <h1>Hello，I'm Sauerkrautttt</h1>
   <br>
+  <!-- Minecraft textures: https://github.com/PrismarineJS/minecraft-assets -->
+  <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/blocks/grass_block_top.png" width="36" alt="Grass block" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/diamond_pickaxe.png" width="36" alt="Diamond pickaxe" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/redstone.png" width="36" alt="Redstone" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/ender_eye.png" width="36" alt="Eye of Ender" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.21.1/items/nether_star.png" width="36" alt="Nether Star" />
+  <br><br>
   <pre>
     ☕ Java
     🧱 NeoForge 1.21
@@ -20,3 +27,10 @@
   [![Magma Bucket](https://img.shields.io/badge/Magma%20Bucket-Fabric%201.20.4-8f9d79)](https://github.com/Sauerkrautttt/magma-bucket-1.20.4)
   [![Sauerkraut Mod](https://img.shields.io/badge/Sauerkraut%20Mod-Fabric%201.20.4-a0a88f)](https://github.com/Sauerkrautttt/sauerkrautmod-fabric-1.20.4)
 </div>
+
+<br clear="right">
+
+### ⏱ WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
