@@ -35,16 +35,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Total Time: 32 hrs 9 mins
+Total Time: 32 hrs 30 mins
 
-Python            20 hrs 22 mins  ███████████████▒░░░░░░░░░   61.90 %
-JSON              7 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
-Markdown          2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Text              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-GLSL shader       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Python           18 hrs 56 mins  ██████████████░░░░░░░░░░░   56.58 %
+JSON             7 hrs 54 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Markdown         3 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Text             1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other            57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+textmate         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
