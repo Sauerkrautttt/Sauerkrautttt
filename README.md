@@ -35,16 +35,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 42 hrs 19 mins
+Total Time: 40 hrs 36 mins
 
-Python           31 hrs 6 mins   █████████████████▓░░░░░░░   70.88 %
-JSON             7 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-Markdown         2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Other            1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Text             1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-GLSL shader      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python       32 hrs 29 mins  ███████████████████▓░░░░░   78.02 %
+JSON         5 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Markdown     1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Text         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Other        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+PowerShell   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
